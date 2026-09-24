@@ -11,4 +11,4 @@ path = "src/main.rs"
 [dependencies]
 winapi = {version = "0.3.9", features = ["winuser"]}
 win32-error = "0.9.0"
-detour = "0.8.1"
+detour = "0.9.0"
